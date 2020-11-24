@@ -1,2 +1,2 @@
 # .github
-Repository for default health files
+Repository for default health files and issue templates
