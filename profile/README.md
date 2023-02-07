@@ -3,6 +3,9 @@
 In this organizationtion you will find multiple repositories contain help information and assets
 that you can leverage in your platform.
 
+Each repository may have a different license associated with the content so be sure to check the
+LICENSE.md file in each repository.
+
 <!--
 **Here are some ideas to get you started:**
 🙋‍♀️ A short introduction - what is your organization all about?
