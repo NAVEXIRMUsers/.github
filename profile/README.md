@@ -1,7 +1,7 @@
 # Welcome to the NAVEX IRM Users Group
 
 In this organizationtion you will find multiple repositories contain help information and assets
-that you can leverage in your platform. 👋
+that you can leverage in your platform.
 
 <!--
 **Here are some ideas to get you started:**
